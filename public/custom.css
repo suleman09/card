@@ -10,7 +10,7 @@ body{
 
 .bio-span{
     font-size: 18px;
-    font-weight: 420;
+    font-weight: 550;
 }
 
 .bio-para{
@@ -20,7 +20,7 @@ body{
 
 .heading{
     text-decoration: underline dotted;
-    /* font-weight: lighter; */
+    /* font-weight: 600; */
 }
 
 .hero-section{
