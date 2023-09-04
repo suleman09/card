@@ -1,14 +1,28 @@
 
-/* .custom-card-width {
-    width: 76%;
-}  */
+body{
+    /* background-color: #FFF0F5; */
+}
+
+.custom-card {
+    /* width: 76%; */
+    /* background-color: #FFDBAA; */
+} 
 
 .bio-span{
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 420;
 }
 
 .bio-para{
-    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: 540; */
+}
 
+.heading{
+    text-decoration: underline dotted;
+    /* font-weight: lighter; */
+}
+
+.hero-section{
+    
 }
