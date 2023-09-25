@@ -1,1 +1,52 @@
-### For more information, read the blog [here](https://dev.to/ankur0904/merge-your-first-pull-request-prepare-for-the-hacktoberfest-2023-1bn2)
+# Card Display Web App
+
+This web application displays cards for different users with their name, bio, a future goal (what they want to be after 5 years), and a link to their GitHub profile. The cards also feature an SVG image associated with each user.
+
+## Files in this project
+- **About.jsx:** A component for an 'About' section.
+- **Card.jsx:** Renders user details in a card format.
+- **FAQ.jsx:** Component for FAQs.
+- **NavBar.jsx:** Provides navigation through the app.
+- **HomePage.jsx:** The main landing page that showcases the NavBar and user cards.
+
+## Contribution using VSCode
+
+**1. Fork the Repository**  
+First, fork the main repository to have a copy in your GitHub account.
+
+**2. Clone the Repository**  
+Open terminal and run the following command:
+```https://github.com/<YOUR_USERNAME>/card.git```
+
+
+**3. Install Dependencies**  
+In the terminal run the following command:
+```npm install```
+
+To start the project:
+```npm start```
+
+*Your project should open in your default web browser at http://localhost:3000.*
+
+**4. Branching**
+To create a new branch:
+```git branch <BRANCH_NAME>```
+```git checkout <BRANCH_NAME>```
+
+**5. Make Your Changes**
+Navigate to the data.js file and add your data object to contribute.
+
+**6. Committing and Pushing Changes** 
+To add the changes in the staging area, run:
+```git add .``` or ```git add <File_Path>```
+To add the commit message:
+```git commit -m "YOUR_MESSAGE"```
+To push the changes
+```git push origin <BRANCH_NAME>```
+
+*<BRANCH_NAME> will be same which is created in step 4*
+
+**7. Open a Pull Request (PR)** 
+Switch back to your browser and go to your forked repository on GitHub. Select your branch and click on "New pull request". Ensure the base repository is the original one you forked from. Add any comments and then click "Create pull request".
+
+
