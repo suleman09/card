@@ -17,7 +17,9 @@ First, fork the main repository to have a copy in your GitHub account.
 **2. Clone the Repository**  
 Open terminal and run the following command:
 
-```https://github.com/<YOUR_USERNAME>/card.git```
+``
+`https://github.com/<YOUR_USERNAME>/card.git
+```
 
 
 **3. Install Dependencies**  
