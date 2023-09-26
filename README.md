@@ -17,28 +17,36 @@ First, fork the main repository to have a copy in your GitHub account.
 **2. Clone the Repository**  
 Open terminal and run the following command:
 
-``
-`https://github.com/<YOUR_USERNAME>/card.git
+```
+https://github.com/<YOUR_USERNAME>/card.git
 ```
 
 
 **3. Install Dependencies**  
 In the terminal run the following command:
 
-```npm install```
+```
+npm install
+```
 
 To start the project:
 
-```npm start```
+```
+npm start
+```
 
 *Your project should open in your default web browser at http://localhost:3000.*
 
 **4. Branching**
 To create a new branch:
 
-```git branch <BRANCH_NAME>```
+```
+git branch <BRANCH_NAME>
+```
 
-```git checkout <BRANCH_NAME>```
+```
+git checkout <BRANCH_NAME>
+```
 
 **5. Make Your Changes**
 Navigate to the data.js file and add your data object to contribute.
@@ -46,15 +54,26 @@ Navigate to the data.js file and add your data object to contribute.
 **6. Committing and Pushing Changes** 
 To add the changes in the staging area, run:
 
-```git add .``` or ```git add <File_Path>```
+```
+git add .
+```
+or
+
+```
+git add <File_Path>
+```
 
 To add the commit message:
 
-```git commit -m "YOUR_MESSAGE"```
+```
+git commit -m "YOUR_MESSAGE"
+```
 
 To push the changes
 
-```git push origin <BRANCH_NAME>```
+```
+git push origin <BRANCH_NAME>
+```
 
 *<BRANCH_NAME> will be same which is created in step 4*
 
