@@ -4,6 +4,19 @@
 
 This web application displays cards for different users with their name, bio, a future goal (what they want to be after 5 years), and a link to their GitHub profile. The cards also feature an SVG image associated with each user.
 
+## Tech Stack
+
+The Card Display Web App is built using the following technologies and tools:
+
+- **React:** A JavaScript library for building user interfaces.
+- **JavaScript:** The primary programming language used for client-side development.
+- **HTML/CSS:** For structuring and styling the web pages.
+- **SVG:** Scalable Vector Graphics used for displaying user images.
+- **GitHub:** For version control and collaboration.
+- **VSCode:** A code editor used for development.
+- **npm:** The Node.js package manager for managing project dependencies.
+- **Git:** A version control system for tracking changes in the project.
+
 ## Files in this project
 - **About.jsx:** A component for an 'About' section.
 - **Card.jsx:** Renders user details in a card format.
