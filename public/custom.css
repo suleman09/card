@@ -1,28 +1,72 @@
-
-body{
-    /* background-color: #FFF0F5; */
+body {
+  /* background-color: #FFF0F5; */
 }
 
 .custom-card {
-    /* width: 76%; */
-    /* background-color: #FFDBAA; */
-} 
-
-.bio-span{
-    font-size: 18px;
-    font-weight: 550;
+  /* width: 76%; */
+  /* background-color: #FFDBAA; */
 }
 
-.bio-para{
-    font-family: Arial, Helvetica, sans-serif;
-    /* font-weight: 540; */
+.bio-span {
+  font-size: 18px;
+  font-weight: 550;
 }
 
-.heading{
-    text-decoration: underline dotted;
-    /* font-weight: 600; */
+.bio-para {
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-weight: 540; */
 }
 
-.hero-section{
+.heading {
+  text-decoration: underline dotted;
+  /* font-weight: 600; */
+}
+
+.hero-section {
     
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+section {
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.about-us {
+  max-width: 700px;
+  margin: 0 auto 50px;
+}
+
+.about-us header {
+  padding: 1rem;
+}
+
+.about-us section {
+  padding: 0.5rem;
+}
+
+.about-us h2 {
+  margin-bottom: 0.5rem;
+}
+
+.about-us p {
+  margin-bottom: 1rem;
 }
