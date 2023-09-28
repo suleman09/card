@@ -1,3 +1,5 @@
+## Please star ⭐ the repo if you find this useful
+
 # Card Display Web App
 
 This web application displays cards for different users with their name, bio, a future goal (what they want to be after 5 years), and a link to their GitHub profile. The cards also feature an SVG image associated with each user.
